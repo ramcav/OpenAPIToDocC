@@ -9,7 +9,7 @@ A GSoC 2025 project proposal to create a tool that transforms OpenAPI specs into
 - **Email**: rmendez.ieu2022@student.ie.edu  
 - **GitHub**: [https://github.com/ramcav](https://github.com/ramcav)  
 - **University**: IE University  
-- **Degree Program**: Computer Science and Artificial Intelligence  
+- **Degree Program**: Computer Science and Artificial Intelligence (3rd Year)  
 - **Availability**: 30-35 hours per week  
 
 ## Synopsis
