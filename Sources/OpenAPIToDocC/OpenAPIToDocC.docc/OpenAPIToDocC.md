@@ -1,4 +1,4 @@
-# Title OpenAPI to DocC Documentation Tool for Swift
+# OpenAPI to DocC Documentation Tool for Swift
 
 ## Abstract  
 A GSoC 2025 project proposal to create a tool that transforms OpenAPI specs into DocC documentation bundles, enhancing Swift’s developer experience and supporting open-source documentation consistency.
